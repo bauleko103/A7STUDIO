@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Avo';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Avo'), url('UTM-Avo.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Avo';
+    font-weight: 500;
+    font-style: normal;
+    src: local('Avo'), url('UTM-AvoBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Avo';
+    font-weight: 400;
+    font-style: italic;
+    src: local('Avo'), url('UTM-AvoItalic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Avo';
+    font-weight: 500;
+    font-style: italic;
+    src: local('Avo'), url('UTM-AvoBold_Italic.ttf') format('truetype');
+}
